@@ -10,7 +10,6 @@ I enjoy turning ideas into practical digital products — from designing user fl
 * **Front-End:** HTML, CSS, JavaScript
 * **Development:** Git, GitHub, REST API
 * **Design & Multimedia:** Photoshop, Illustrator, After Effects, Premiere Pro
-* **Platforms:** WordPress
 
 ### 🚀 Projects
 
